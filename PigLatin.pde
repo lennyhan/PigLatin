@@ -41,4 +41,4 @@ public String pigLatin(String sWord) {
 //  if (vowels.contains(String.valueOf(sWord.charAt(index)))) {
 //    System.out.println(index);
 //  }
-//} idiots that think they always right
+//}
