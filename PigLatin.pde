@@ -1,6 +1,5 @@
 public void setup() {
-  String[] lines = {"beast", "dough", "happy", "question", "star", "three", "eagle", "try"};
-  //String[] lines = loadStrings("words.txt");
+  String[] lines = loadStrings("words.txt");
   System.out.println("there are " + lines.length + " lines");
   for (int i = 0; i < lines.length; i++)
   {
